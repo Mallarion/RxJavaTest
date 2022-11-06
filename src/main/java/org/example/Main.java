@@ -11,8 +11,8 @@ public class Main {
     public static void main(String[] args) throws InterruptedException {
 
         List<String>  arrayList = new ArrayList<>();
-        Collections.addAll(arrayList, "s", "fg", "df", "nik");
-
+        Collections.addAll(arrayList, "tutorial for git version"+ "1.01");
+        arrayList.forEach(System.out::println);
 
 
 
