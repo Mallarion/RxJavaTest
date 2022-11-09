@@ -1,3 +1,0 @@
-Something that almost will delete
-And this was add from ui
-It's was added to check how to write commit message in UI
