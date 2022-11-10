@@ -1,2 +1,4 @@
 This is document 2
 v1.03
+Hey, we also suppose some changes
+And now we have conflicts....
