@@ -1,2 +1,2 @@
 This is document 1
-v1.04 for test how it works when cherry-pick will do from master to some another branch 4
+v1.05 for test how it works when cherry-pick will do from master to some another branch 4
